@@ -3,6 +3,5 @@
   "editor.formatOnSave": true,
   "files.trimFinalNewlines": true,
   "files.insertFinalNewline": true,
-  "files.trimTrailingWhitespace": true,
-  "editor.wordWrap": "on"
+  "files.trimTrailingWhitespace": true
 }
