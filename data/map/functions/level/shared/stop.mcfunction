@@ -1,3 +1,2 @@
-say Returning to lobby
-
+kill @e[tag=level]
 kill @p
