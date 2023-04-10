@@ -13,3 +13,7 @@
 
 - Change or add `.mcfunction` files (see the [Function documentation](<https://minecraft.fandom.com/wiki/Function_(Java_Edition)>))
 - Run `/reload` in Minecraft to reload the datapack after making changes
+
+## Depends on 
+
+- [mcanim](https://github.com/GearsDatapacks/mcanim) datapack to be in world's datapacks folder
