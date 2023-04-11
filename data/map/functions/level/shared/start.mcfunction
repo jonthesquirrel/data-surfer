@@ -4,5 +4,4 @@ effect give @p jump_boost infinite 128 true
 # The world must have a barrier block at 0 -2 0
 tp @p 0 -1 0 0 -90
 
-# There must be a dummy scoreboard objective called state
 scoreboard players set #playing state 1
