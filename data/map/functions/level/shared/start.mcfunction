@@ -1,7 +1,8 @@
-attribute @p minecraft:generic.movement_speed base set 0
-effect give @p jump_boost infinite 128 true
+gamemode spectator @p
 
-# The world must have a barrier block at 0 -2 0
-tp @p 0 -1 0 0 -90
+tp @p 0 0 0 0 -90
 
 scoreboard players set #playing state 1
+
+scoreboard players reset @p stop
+scoreboard players enable @p stop
